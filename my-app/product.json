@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Sepatu Lari Velocity",
+    "slug": "sepatu-lari-velocity",
+    "description": "Sepatu lari yang ramping dan ringan dirancang untuk kecepatan maksimum di lintasan.",
+    "excerpt": "Sepatu lari yang ramping dan ringan",
+    "price": 79.99,
+    "tags": ["lari", "sepatu"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/g/ig5941_2_footwear_photography_side20lateral20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/g/ig8313_2_footwear_photography_side20lateral20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/g/ig5941_2_footwear_photography_side20lateral20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-07T08:00:00.000Z",
+    "updatedAt": "2024-05-07T08:00:00.000Z"
+  },
+  {
+    "name": "Sepatu Basket Elite",
+    "slug": "sepatu-basket-elite",
+    "description": "Sepatu basket dengan desain premium untuk performa maksimum di lapangan.",
+    "excerpt": "Sepatu basket dengan desain premium",
+    "price": 129.99,
+    "tags": ["basket", "sepatu"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/f/if9355_2_footwear_photography_side20lateral20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/e/ie2707_2_footwear_photography_side20lateral20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/f/if9355_2_footwear_photography_side20lateral20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-08T08:00:00.000Z",
+    "updatedAt": "2024-05-08T08:00:00.000Z"
+  },
+  {
+    "name": "Kaos Polo Pro",
+    "slug": "kaos-polo-pro",
+    "description": "Kaos polo dengan bahan berkualitas tinggi dan desain yang elegan untuk gaya santai yang tetap stylish.",
+    "excerpt": "Kaos polo berkualitas tinggi",
+    "price": 49.99,
+    "tags": ["polo", "kaos"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/u/iu4417_2_apparel_photography_front20center20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/j/f/jf4194_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/u/iu4417_2_apparel_photography_front20center20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-09T08:00:00.000Z",
+    "updatedAt": "2024-05-09T08:00:00.000Z"
+  },
+  {
+    "name": "Celana Training Flex",
+    "slug": "celana-training-flex",
+    "description": "Celana training yang nyaman dengan material elastis untuk gerakan bebas selama latihan.",
+    "excerpt": "Celana training yang nyaman dan fleksibel",
+    "price": 59.99,
+    "tags": ["training", "celana"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/s/is3732_2_apparel_photography_front20center20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/r/ir9247_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/s/is3732_2_apparel_photography_front20center20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-10T08:00:00.000Z",
+    "updatedAt": "2024-05-10T08:00:00.000Z"
+  },
+  {
+    "name": "Sepatu Lari Stamina",
+    "slug": "sepatu-lari-stamina",
+    "description": "Sepatu lari dengan bantalan yang nyaman untuk menjaga kenyamanan dan stamina selama latihan.",
+    "excerpt": "Sepatu lari dengan bantalan yang nyaman",
+    "price": 89.99,
+    "tags": ["lari", "sepatu"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/e/ie5831_2_footwear_photography_side20lateral20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/g/ig8203_2_footwear_photography_side20lateral20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/e/ie5831_2_footwear_photography_side20lateral20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-11T08:00:00.000Z",
+    "updatedAt": "2024-05-11T08:00:00.000Z"
+  },
+  {
+    "name": "Baju Olahraga ProFit",
+    "slug": "baju-olahraga-profit",
+    "description": "Baju olahraga dengan teknologi keringat-wicking dan bahan yang cepat kering untuk performa maksimum selama latihan intensif.",
+    "excerpt": "Baju olahraga dengan teknologi keringat-wicking",
+    "price": 34.99,
+    "tags": ["olahraga", "baju"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/l/il7141_2_apparel_photography_front20center20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/s/is3807_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/l/il7141_2_apparel_photography_front20center20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-12T08:00:00.000Z",
+    "updatedAt": "2024-05-12T08:00:00.000Z"
+  },
+  {
+    "name": "Sepatu Futsal Hyper",
+    "slug": "sepatu-futsal-hyper",
+    "description": "Sepatu futsal dengan sol karet anti-slip dan desain yang ergonomis untuk manuver cepat di lapangan futsal.",
+    "excerpt": "Sepatu futsal dengan sol karet anti-slip",
+    "price": 69.99,
+    "tags": ["futsal", "sepatu"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/g/y/gy9989_1_footwear_photography_side20lateral20center20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/g/y/gy9986_1_footwear_photography_side20lateral20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/g/y/gy9989_1_footwear_photography_side20lateral20center20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-13T08:00:00.000Z",
+    "updatedAt": "2024-05-13T08:00:00.000Z"
+  },
+  {
+    "name": "Kaos Kaki Sport Pro",
+    "slug": "kaos-kaki-sport-pro",
+    "description": "Kaos kaki sport dengan teknologi anti-bau dan bahan yang bernapas untuk kenyamanan maksimum selama latihan.",
+    "excerpt": "Kaos kaki sport dengan teknologi anti-bau",
+    "price": 19.99,
+    "tags": ["kaos-kaki", "sport"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/h/c/hc9550_sc_ecom.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/i/r/ir9630_1_hardware_photography_side_center_view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/h/c/hc9550_sc_ecom.jpg"
+    ],
+    "createdAt": "2024-05-14T08:00:00.000Z",
+    "updatedAt": "2024-05-14T08:00:00.000Z"
+  },
+  {
+    "name": "Celana Jogger Urban",
+    "slug": "celana-jogger-urban",
+    "description": "Celana jogger yang stylish dengan fit yang nyaman, cocok untuk berbagai aktivitas sehari-hari.",
+    "excerpt": "Celana jogger yang stylish",
+    "price": 44.99,
+    "tags": ["jogger", "celana"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/s/is3832_2_apparel_photography_front20center20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/n/in2788_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/s/is3832_2_apparel_photography_front20center20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-15T08:00:00.000Z",
+    "updatedAt": "2024-05-15T08:00:00.000Z"
+  },
+  {
+    "name": "Baju Renang ProSwim",
+    "slug": "baju-renang-proswim",
+    "description": "Baju renang dengan teknologi tahan air dan desain aerodinamis untuk performa maksimum di kolam renang.",
+    "excerpt": "Baju renang dengan teknologi tahan air",
+    "price": 54.99,
+    "tags": ["renang", "baju"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/l/il7262_2_apparel_photography_front20center20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/h/z/hz9139_1_apparel_photography_front_view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/l/il7262_2_apparel_photography_front20center20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-16T08:00:00.000Z",
+    "updatedAt": "2024-05-16T08:00:00.000Z"
+  },
+  {
+    "name": "Sepatu Running AirMax",
+    "slug": "sepatu-running-airmax",
+    "description": "Sepatu running dengan teknologi AirMax yang memberikan cushioning superior dan dukungan maksimum.",
+    "excerpt": "Sepatu running dengan teknologi AirMax",
+    "price": 99.99,
+    "tags": ["running", "sepatu"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/e/ie3369_2_footwear_photography_side20lateral20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/e/ie5831_2_footwear_photography_side20lateral20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/e/ie3369_2_footwear_photography_side20lateral20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-17T08:00:00.000Z",
+    "updatedAt": "2024-05-17T08:00:00.000Z"
+  },
+  {
+    "name": "Baju Yoga Harmony",
+    "slug": "baju-yoga-harmony",
+    "description": "Baju yoga dengan bahan yang stretch dan breathable untuk kenyamanan dan mobilitas maksimum selama praktik yoga.",
+    "excerpt": "Baju yoga dengan bahan yang stretch",
+    "price": 39.99,
+    "tags": ["yoga", "baju"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/u/iu3183_2_apparel_photography_front20center20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/p/ip8333_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/u/iu3183_2_apparel_photography_front20center20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-18T08:00:00.000Z",
+    "updatedAt": "2024-05-18T08:00:00.000Z"
+  },
+  {
+    "name": "Sepatu Skate Pro",
+    "slug": "sepatu-skate-pro",
+    "description": "Sepatu skate dengan desain yang tahan lama dan sol karet yang menawarkan grip superior di atas papan.",
+    "excerpt": "Sepatu skate dengan desain yang tahan lama",
+    "price": 79.99,
+    "tags": ["skate", "sepatu"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/i/d/id3380_2_footwear_photography_side_lateral_view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/d/id6097_2_footwear_photography_side20lateral20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/i/d/id3380_2_footwear_photography_side_lateral_view_grey.jpg"
+    ],
+    "createdAt": "2024-05-19T08:00:00.000Z",
+    "updatedAt": "2024-05-19T08:00:00.000Z"
+  },
+  {
+    "name": "Kaus Lapangan Sporty",
+    "slug": "kaus-lapangan-sporty",
+    "description": "Kaus lapangan dengan bahan yang ringan dan teknologi anti-bakteri untuk kenyamanan maksimum selama aktivitas lapangan.",
+    "excerpt": "Kaus lapangan dengan teknologi anti-bakteri",
+    "price": 29.99,
+    "tags": ["lapangan", "kaus"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/i/q/iq3943_2_apparel_photography_front_center_view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/b/ib7709_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/i/q/iq3943_2_apparel_photography_front_center_view_grey.jpg"
+    ],
+    "createdAt": "2024-05-20T08:00:00.000Z",
+    "updatedAt": "2024-05-20T08:00:00.000Z"
+  },
+  {
+    "name": "Sepatu Golf Elite",
+    "slug": "sepatu-golf-elite",
+    "description": "Sepatu golf dengan desain yang elegan dan sol karet yang memberikan traksi superior di lapangan golf.",
+    "excerpt": "Sepatu golf dengan desain yang elegan",
+    "price": 149.99,
+    "tags": ["golf", "sepatu"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/e/ie3369_2_footwear_photography_side20lateral20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/g/ig3277_2_footwear_photography_side20lateral20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/e/ie3369_2_footwear_photography_side20lateral20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-21T08:00:00.000Z",
+    "updatedAt": "2024-05-21T08:00:00.000Z"
+  },
+  {
+    "name": "Celana Pendek Jogging Aero",
+    "slug": "celana-pendek-jogging-aero",
+    "description": "Celana pendek jogging dengan teknologi mesh untuk sirkulasi udara maksimum dan kenyamanan saat berlari.",
+    "excerpt": "Celana pendek jogging dengan teknologi mesh",
+    "price": 34.99,
+    "tags": ["jogging", "celana"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/s/is0662_2_apparel_photography_front20center20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/t/it3409_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/s/is0662_2_apparel_photography_front20center20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-22T08:00:00.000Z",
+    "updatedAt": "2024-05-22T08:00:00.000Z"
+  },
+  {
+    "name": "Kaos Polo Classic",
+    "slug": "kaos-polo-classic",
+    "description": "Kaos polo dengan desain klasik yang nyaman untuk digunakan sehari-hari.",
+    "excerpt": "Kaos polo dengan desain klasik",
+    "price": 39.99,
+    "tags": ["polo", "kaos"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/i/m/im8919_1_apparel_photography_front_center_view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/n/in2795_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/i/m/im8919_1_apparel_photography_front_center_view_grey.jpg"
+    ],
+    "createdAt": "2024-05-23T08:00:00.000Z",
+    "updatedAt": "2024-05-23T08:00:00.000Z"
+  },
+  {
+    "name": "Baju Bola Tim Elite",
+    "slug": "baju-bola-tim-elite",
+    "description": "Baju bola tim dengan bahan yang tahan lama dan desain yang menonjol untuk identitas tim yang kuat di lapangan.",
+    "excerpt": "Baju bola tim dengan desain yang menonjol",
+    "price": 59.99,
+    "tags": ["bola", "baju"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/w/iw6307_2_apparel_photography_front20center20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/w/iw6306_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/w/iw6307_2_apparel_photography_front20center20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-24T08:00:00.000Z",
+    "updatedAt": "2024-05-24T08:00:00.000Z"
+  },
+  {
+    "name": "Sepatu Tenis ProCourt",
+    "slug": "sepatu-tenis-procourt",
+    "description": "Sepatu tenis dengan desain yang stabil dan bantalan yang responsif untuk kinerja optimal di lapangan tenis.",
+    "excerpt": "Sepatu tenis dengan desain yang stabil",
+    "price": 109.99,
+    "tags": ["tenis", "sepatu"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/f/if9354_2_footwear_photography_side20lateral20view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/f/if6482_2_footwear_photography_side20lateral20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/f/if9354_2_footwear_photography_side20lateral20view_grey.jpg"
+    ],
+    "createdAt": "2024-05-25T08:00:00.000Z",
+    "updatedAt": "2024-05-25T08:00:00.000Z"
+  },
+  {
+    "name": "Kaos Renang ProFit",
+    "slug": "kaos-renang-profit",
+    "description": "Kaos renang dengan bahan tahan air dan desain yang stylish untuk tampil maksimal di kolam renang.",
+    "excerpt": "Kaos renang dengan bahan tahan air",
+    "price": 44.99,
+    "tags": ["renang", "kaos"],
+    "thumbnail": "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/h/z/hz9139_1_apparel_photography_front_view_grey.jpg",
+    "image": [
+      "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/b/ib6009_2_apparel_photography_front20center20view_grey.jpg",
+      "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/h/z/hz9139_1_apparel_photography_front_view_grey.jpg"
+    ],
+    "createdAt": "2024-05-26T08:00:00.000Z",
+    "updatedAt": "2024-05-26T08:00:00.000Z"
+  }
+]
